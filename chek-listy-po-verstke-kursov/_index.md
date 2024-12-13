@@ -7,7 +7,7 @@ title: Чек-листы по верстке курсов
 
 :::info:true О каких конструкторах мы говорим
 
--  Rise
+-  [Rise](https://rise.articulate.com/manage/bookmarks)
 
 -  Course Editor
 
